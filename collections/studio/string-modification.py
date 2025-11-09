@@ -3,10 +3,11 @@ my_string = "LaunchCode"
 
 # a) Use string methods to remove the first three characters from the string and add them to the end.
 
-
+modified_string = my_string[3:] + my_string[:3]
 
 # Use a template literal to print the original and modified string in a descriptive phrase.
 
+print(f"The original string was '{my_string}', and after modification it becomes '{modified_string}'.")
 
 
 # b) Modify your code to accept user input. Query the user to enter the number of letters that will be relocated.
