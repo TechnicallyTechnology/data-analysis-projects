@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "data-analysis-projects",
+			"path": "../.."
+		},
+		{
+			"name": "data-manipulation-exercises-studio",
+			"path": "../../../../../LaunchCode/data-manipulation-exercises-studio"
+		},
+		{
+			"name": "data-analysis-projects-class-19-and-20",
+			"path": "../../../../../LaunchCode/data-analysis-projects-class-19-and-20"
+		}
+	],
+	"settings": {}
+}
