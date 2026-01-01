@@ -13,9 +13,15 @@ shuttle_speed = 15000
 ## I predict that the output will be "engines are off" because 
 ## the orginal indicator light doesnt match
 
+
+#Examine the code below. What will be printed to the console?
+
+
 if engine_indicator_light == "green": 
   print("engines have started")
 elif engine_indicator_light == "green blinking": 
   print("engines are preparing to start")
 else:
   print("engines are off")
+
+  #engines are off
